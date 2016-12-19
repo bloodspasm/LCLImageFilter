@@ -7,7 +7,7 @@
 //
 
 #import "LCLGPUImage.h"
-#import <GPUImage/GPUImage.h>
+#import "GPUImage.h"
 @implementation LCLGPUImage
 
 //亮度

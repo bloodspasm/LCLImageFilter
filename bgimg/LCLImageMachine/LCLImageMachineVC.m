@@ -8,7 +8,7 @@
 
 #import "LCLImageMachineVC.h"
 #import "UIImageView+WebCache.h"
-#import <GPUImage/GPUImage.h>
+#import "GPUImage.h"
 #import "LCLGPUImage.h" 
 #import "LCLConfig.h"
 #import "ToolbarView.h"
